@@ -1,9 +1,9 @@
 ### Hi there 👋 I,m Hareesh
 
 
-🔭 I’m currently working on Quiz App in Python Django
-🌱 I’m currently learning ReactJS
-📫 How to reach me: hareeshkr@protonmail.com
+* 🔭 I’m currently working on Quiz App in Python Django
+* 🌱 I’m currently learning ReactJS
+* 📫 How to reach me: hareeshkr@protonmail.com
 
 <!--
 **hareeshkr/hareeshkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
