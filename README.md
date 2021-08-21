@@ -1,7 +1,5 @@
 # Hi there 👋 I,m Hareesh
 
-
-* 🔭 I’m currently working on Quiz App in Python Django
 * 🌱 I’m currently learning ReactJS
 * 📫 How to reach me: hareeshkr@protonmail.com
 
