@@ -1,5 +1,6 @@
 # Hi there 👋 I,m Hareesh
 
+* 🔭 I’m currently working on React
 * 🌱 I’m currently learning NextJS
 * 📫 How to reach me: hareeshkr@protonmail.com
 
