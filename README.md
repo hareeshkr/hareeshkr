@@ -1,7 +1,7 @@
 # Hi there 👋 I,m Hareesh
 
 * 🔭 I’m currently working on a React Native Project.
-* 📫 How to reach me: hareeshkr@proton.me
+* 📫 How to reach me: rhareeshpillai@gmail.com
 
 <!--
 **hareeshkr/hareeshkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
