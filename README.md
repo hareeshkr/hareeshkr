@@ -1,6 +1,6 @@
 # Hi there 👋 I,m Hareesh
 
-* 🔭 I’m currently working on a React Native Project.
+* 🔭 Typescript...Python...
 * 📫 How to reach me: rhareeshpillai@gmail.com
 
 <!--
